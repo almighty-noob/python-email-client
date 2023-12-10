@@ -6,3 +6,4 @@ It reads from the excel file which stores my Daily Reports Data along with names
 Then, an extremely basic tkinter window that sends the mail by taking the password and self-destrcuts when the mail is sent.
 
 If you wish to use it for some unknown reason, then download the zip -> extract -> run Mail.py
+Make sure to change sender and destination addresses in the Mail.py
